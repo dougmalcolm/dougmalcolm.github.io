@@ -1,3 +1,5 @@
-# dougmalcolm.github.io
+# Decoding Pinball Excellence: A Data-Driven Analysis
+#### Douglas Malcolm
+#### Contact Info: LinkdIn | Email
 
-## Sample text here
+## Executive Summary
