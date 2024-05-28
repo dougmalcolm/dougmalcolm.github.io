@@ -32,7 +32,7 @@ The data to extract...
 
 [table of data label bolded, followed by description of data points]
 
-#### Python Web Scraper
+### Python Web Scraper
 
 ```Python
 from bs4 import BeautifulSoup
@@ -51,11 +51,9 @@ with open('Local File Path', 'a') as f:
     f.write(total_events + "\n")
 ```
 
-This code **enables us to use our player data** by
-1. Using BeatifulSoup, Requests, and lxml libraries to access and parse the IFPA website's html
-2. Finding the data we want in the html
-3. Recording the data in a cvs file
+This code **extracts and enables us to use the IFPA player data** by using BeatifulSoup, Requests, and lxml libraries to access and parse the website's html. After finding the data we want in the html, we record the data into a cvs file for ease of use. Looping this for every single player in the IFPA gave us **111888** rows of data. 
 
+### Exploring the Data
 
 
 
