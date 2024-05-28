@@ -32,7 +32,11 @@ The data to extract...
 
 [table of data label bolded, followed by description of data points]
 
-I utilized the BeatifulSoup, Requests, and lxml libraries to be able to access and parse the html from the IFPA website, found the data in the html, and recorded it in a csv:
+This web scraper...
+- Utilizes BeatifulSoup, Requests, and lxml libraries to be able to access and parse the html from the IFPA website
+- Finds the data we want in the html
+- Records the data in a cvs file
+- 
 ```Python
 from bs4 import BeautifulSoup
 import requests
