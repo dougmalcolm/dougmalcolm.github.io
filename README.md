@@ -32,11 +32,14 @@ The data to extract...
 
 [table of data label bolded, followed by description of data points]
 
-This simple web scraper...
+#### Python Web Scraper
+
+This simple web scraper
 1. Uses BeatifulSoup, Requests, and lxml libraries to access and parse the IFPA website's html
 2. Finds the data we want in the html
 3. Records the data in a cvs file
 
+Sample code:
 ```Python
 from bs4 import BeautifulSoup
 import requests
@@ -50,7 +53,7 @@ soup = BeautifulSoup(html_text, 'lxml')
 total_events = str(soup.find(string="Total Events").findNext("td").text)
 
 # Writes this text into csv file 
-with open('File Path', 'a') as f:
+with open('Local File Path', 'a') as f:
     f.write(total_events + "\n")
 ```
 
