@@ -1,17 +1,17 @@
 # Decoding Pinball Wizardry: A Data-Driven Analysis
-#### Douglas Malcolm
-#### Contact Info: LinkdIn | Email
+### Douglas Malcolm
+### Contact Info: LinkdIn | Email
 
 ## Overview
 What makes a pinball player great? 
 This analysis looks to answer that quesion by uncovering patterns in pinball tournament player data.
 
 In this project I... 
-- Developed a **Python web scraper** to extract player data from the [International Flipper Pinball Associaion](https://www.ifpapinball.com/).
-- Performed data cleaning and preprocessing using the **pandas** library.
-- Built **data visualization graphs** to help make sense of the data.
-- Employed the **machine learning** sklearn library to construct and refine linear regression models.
-- Conducted a thorough analysis to interpret the finalized model and derive **meaningful conclusions**. 
+- Developed a **Python web scraper** to extract and collect pinball tournament player data
+- Performed data cleaning and preprocessing using **pandas**
+- Built **data visualizations** to help make sense of the data
+- Employed **machine learning** sklearn library to construct linear regression models
+- Interpreted statistical test results to derive **meaningful conclusions**
 
 ## Background
 - [pinball takes skill] - keith elwin is proof
@@ -51,12 +51,19 @@ with open('Local File Path', 'a') as f:
     f.write(total_events + "\n")
 ```
 
-This code **extracts and enables us to use the IFPA player data** by using BeatifulSoup, Requests, and lxml libraries to access and parse the website's html. After finding the data we want in the html, we record the data into a cvs file for ease of use. Looping this gave **111888 rows of data**, one row for each competitive pinball player.
+This code **extracts and enables us to use the IFPA player data** by using BeatifulSoup, Requests, and lxml libraries to access and parse the website's html. After finding the data we want in the html, we record the data into a cvs file for ease of use. Looping this gave **111888** rows of data, a set of data for each competitive pinball player.
 
 ### Exploring the Data
 
 To get a quick grasp of our data, we can look at the distributions and descriptive statistics for each variable we extracted.
 
+[Histogram 1] [Descriptive Statistics 1]
+[Histogram 2] [Descriptive Statistics 2]
+[Histogram 3] [Descriptive Statistics 3]
+[Histogram 4] [Descriptive Statistics 4]
+...
+
+## The Model
 
 
 
@@ -70,5 +77,3 @@ To get a quick grasp of our data, we can look at the distributions and descripti
 
 
 
-
-here is more background
