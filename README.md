@@ -30,7 +30,7 @@ Here is an example player profile:
 
 The data to extract...
 
-[table of data label bolded, followed by description of data points]
+[table of data label bolded, followed by description of data points], include age started in here
 
 ### Python Web Scraper
 
@@ -65,10 +65,50 @@ To get a quick grasp of our data, we can look at the distributions and descripti
 
 ## The Model
 
+Now let's build a model to determine which factors lead to pinball greatness, and to what degree. Here I will be using **Rating** as the outcome of interest that measures greatness. When pinball players perform poorly in tournaments relative to others their rating goes down, and when they perform well their rating goes up. Because of this, **rating maps on to skill level** very nicely, assuming a player has played in enough tournaments. 
 
+### Building the Model
 
+So, which factors have a statistically significant effect on rating?
 
+Let's use the machine learning sklearn library to build the model:
 
+```Python
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+
+features = ['Age', 'Age Started', 'Years Active', 'Total Events']
+target = 'Rating'
+X = cleaned_data[features]
+y = cleaned_data[target]
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=101)
+Model1 = LinearRegression()
+Model1.fit(X_train, y_train)
+```
+
+### Results
+
+After transforming data to ensure normality, removing insignificant explanatory variables, and checking for low multicollinearity through VIF scores, we arrive at the final model.
+
+[table of                 coef    std err          t      P>|t|      [0.025      0.975]
+const              1410.0744     66.100     21.332      **0.000**    1279.514    1540.635
+**Age Started**          -6.9315      1.392     -4.981      **0.000**      -9.680      -4.183
+**Cbrt Total Events**    54.4912      7.513      7.253      **0.000**      39.652      69.331
+]
+
+**Age Started** and **Total Events** are the only explanatory variables that have a statistically significant effect on rating.
+
+[insert scatter plot of Age Started v Rating]
+[insert scatter plot of cbrt(Total Events) v Rating]
+
+### Calculator
+
+In order to easily predict the rating of any pinball player, I have provided a calculator:
+
+[custom calculator]
+
+## Conclusions
 
 
 
