@@ -51,9 +51,11 @@ with open('Local File Path', 'a') as f:
     f.write(total_events + "\n")
 ```
 
-This code **extracts and enables us to use the IFPA player data** by using BeatifulSoup, Requests, and lxml libraries to access and parse the website's html. After finding the data we want in the html, we record the data into a cvs file for ease of use. Looping this for every single player in the IFPA gave us **111888** rows of data. 
+This code **extracts and enables us to use the IFPA player data** by using BeatifulSoup, Requests, and lxml libraries to access and parse the website's html. After finding the data we want in the html, we record the data into a cvs file for ease of use. Looping this gave **111888 rows of data**, one row for each competitive pinball player.
 
 ### Exploring the Data
+
+To get a quick grasp of our data, we can look at the distributions and descriptive statistics for each variable we extracted.
 
 
 
