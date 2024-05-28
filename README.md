@@ -32,15 +32,22 @@ The data to extract...
 
 [table of data label bolded, followed by description of data points]
 
-I utilized the BeatifulSoup, Requests, and lxml libraries to be able to access and parse the html from the IFPA website.
-
+I utilized the BeatifulSoup, Requests, and lxml libraries to be able to access and parse the html from the IFPA website, found the data in the html, and recorded it in a csv:
 ```Python
 from bs4 import BeautifulSoup
 import requests
 import lxml
 
+# Retrives html from IFPA website
 html_text = requests.get('https://www.ifpapinball.com/player.php?p=' + str(i + 1)).text
 soup = BeautifulSoup(html_text, 'lxml')
+
+# Finds keywords I am looking for
+total_events = str(soup.find(string="Total Events").findNext("td").text)
+
+# Writes this text into csv file 
+with open('File Path', 'a') as f:
+    f.write(total_events + "\n")
 ```
 
 
