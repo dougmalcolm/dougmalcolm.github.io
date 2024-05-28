@@ -51,12 +51,10 @@ with open('Local File Path', 'a') as f:
     f.write(total_events + "\n")
 ```
 
-This code...
-1. Uses BeatifulSoup, Requests, and lxml libraries to access and parse the IFPA website's html
-2. Finds the data we want in the html
-3. Records the data in a cvs file
-
-**...Enabling us to use our player data**.
+This code **enables us to use our player data** by
+1. Using BeatifulSoup, Requests, and lxml libraries to access and parse the IFPA website's html
+2. Finding the data we want in the html
+3. Recording the data in a cvs file
 
 
 
