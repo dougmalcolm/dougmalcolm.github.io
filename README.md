@@ -15,7 +15,7 @@ In this project I...
 
 ## Table of Contents
 1. [Background](https://github.com/dougmalcolm/dougmalcolm.github.io/edit/main/README.md#Background)
-[2. The Data]((https://github.com/dougmalcolm/dougmalcolm.github.io/edit/main/README.md#The-Data)
+[2. The Data](https://github.com/dougmalcolm/dougmalcolm.github.io/edit/main/README.md#The-Data)
 3. The Model
 4. Conclusions
 
