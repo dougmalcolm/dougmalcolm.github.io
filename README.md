@@ -15,10 +15,10 @@ In this project I...
 - Conducted a thorough analysis to interpret the finalized model and derive **meaningful conclusions**. 
 
 ## Table of Contents
-# 1. Background
-# 2. The Data
-# 3. The Model
-# 4. Conclusions
+### 1. Background
+### 2. The Data
+### 3. The Model
+### 4. Conclusions
 
-# 1. Background
+### 1. Background
 
