@@ -2,8 +2,7 @@
 #### Douglas Malcolm
 #### Contact Info: LinkdIn | Email
 
-## Executive Summary
-### Overview:
+## Overview
 What makes a pinball player great? 
 This analysis looks to answer that quesion by uncovering patterns in pinball tournament player data.
 
@@ -15,10 +14,36 @@ In this project I...
 - Conducted a thorough analysis to interpret the finalized model and derive **meaningful conclusions**. 
 
 ## Table of Contents
-### 1. Background
-### 2. The Data
-### 3. The Model
-### 4. Conclusions
+#### 1. [Background](#Background)
+#### 2. The Data
+#### 3. The Model
+#### 4. Conclusions
 
-### 1. Background
+text here
 
+#### 1. Background
+
+hello this is my background
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+here is more background
