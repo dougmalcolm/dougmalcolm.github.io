@@ -108,7 +108,17 @@ In order to easily predict the rating of any pinball player, I have provided a c
 
 [custom calculator]
 
-## Conclusions
+## Discussion
+
+Practically, it makes sense that the age you start playing at and the number of tournaments you play in are big factors contributing to pinball skill. However, this is not the full picture.
+
+### Limitations
+
+Many players choose not to enter their age when making their IFPA profile. Additionally, many players have only played in one or two tournaments [**can get exact % of this from pandas**]. This means that the model only trained on **X players, or X%** of the total number of **N players**. That large chunk of bad data hurt to discard, as the model only improves with more data.
+
+Furthermore, it's imperative to highlight that starting one's journey in pinball later in life and participating in a modest number of tournaments does not prohibit one from acheiving greatness in pinball. Look at [player name], who started at the age of [x], has only played in [y] tournaments, and yet has the [zth] best rating in the world!
+
+Realistically, there are many other qualitative factors that have an enormous impact on one's pinball skill such as; love of the game, openness to failing and learning, degree of access to pinball machines, etc. Although starting young and playing alot have a real impact, there is no doubt that anyone who falls in love with pinball can improve and become great. Where there's a will, there's a path.
 
 
 
