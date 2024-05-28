@@ -32,12 +32,15 @@ The data to extract...
 
 [table of data label bolded, followed by description of data points]
 
-I utilized the BeatifulSoup and Requests libraries to be able to access and parse the html from the IFPA website.
+I utilized the BeatifulSoup, Requests, and lxml libraries to be able to access and parse the html from the IFPA website.
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```Python
+from bs4 import BeautifulSoup
+import requests
+import lxml
+
+html_text = requests.get('https://www.ifpapinball.com/player.php?p=' + str(i + 1)).text
+soup = BeautifulSoup(html_text, 'lxml')
 ```
 
 
