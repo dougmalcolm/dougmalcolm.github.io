@@ -56,7 +56,7 @@ This code...
 2. Finds the data we want in the html
 3. Records the data in a cvs file
 
-**enabling us to use our player data**.
+**...Enabling us to use our player data**.
 
 
 
