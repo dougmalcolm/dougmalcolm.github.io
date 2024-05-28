@@ -55,7 +55,8 @@ This code...
 1. Uses BeatifulSoup, Requests, and lxml libraries to access and parse the IFPA website's html
 2. Finds the data we want in the html
 3. Records the data in a cvs file
-enabling us to use our player data.
+
+**enabling us to use our player data**.
 
 
 
