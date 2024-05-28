@@ -24,11 +24,21 @@ pic of me playing pinball
 ## The Data
 The International Flipper Pinball Association [(IFPA)](https://www.ifpapinball.com/) is *the* organization that oversees and tracks competitive pinball. It has a webpage for each of its players showing information like name, age, years active, tournament finishes, and rating. Since the IFPA lacks a robust API, I decided to develop my own web scraper in Python to extract all of the relevant player data.
 
+Here is an example player profile:
 
+[my profile pic]
 
+The data to extract...
 
+[table of data label bolded, followed by description of data points]
 
+I utilized the BeatifulSoup and Requests libraries to be able to access and parse the html from the IFPA website.
 
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 
 
 
