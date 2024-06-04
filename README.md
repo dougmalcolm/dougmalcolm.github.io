@@ -1,7 +1,5 @@
 # Data Analyst Profile
 
----
-
 Douglas Malcolm
 
 Email: dougmalcolm87@gmail.com
@@ -16,9 +14,9 @@ B.S., Mathematics &nbsp; | &nbsp; The University of Maryland, Baltimore County (
 
 SQL, Excel, PowerBI, Tableu, Python(Pandas, NumPy, Sklearn)
 
-# Projects
-
 ---
+
+# Projects
 
 ## Decoding Pinball Wizardry: A Data-Driven Analysis
 
