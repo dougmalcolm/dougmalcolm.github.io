@@ -54,7 +54,10 @@ Here is an example player profile:
 
 For each tournament player in the IFPA, the following data is collected...
 
-<img src="/assets/data.PNG">
+**Data to Collect | Description**
+--- | ---
+Still | `renders`
+1 | 2
 
 #### Python Web Scraper
 
