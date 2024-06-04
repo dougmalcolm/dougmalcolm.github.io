@@ -1,6 +1,15 @@
-# Decoding Pinball Wizardry: A Data-Driven Analysis
-### Douglas Malcolm
-### Contact Info: LinkdIn | Email
+# Aspiring Data Analyst
+
+### Technical Skills: SQL, Excel, PowerBI, Tableu, SAS, Python(Pandas, NumPy, Sklearn)
+
+## Education
+
+B.S., Mathematics        University of Maryland, Baltimore County
+    Minor in Statistics
+
+# Projects
+
+## Decoding Pinball Wizardry: A Data-Driven Analysis
 
 ## Overview
 What makes a pinball player great? 
