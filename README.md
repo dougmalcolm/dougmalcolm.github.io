@@ -4,7 +4,7 @@
 
 ## Education
 
-B.S., Mathematics & emsp & University of Maryland, Baltimore County
+B.S., Mathematics &nbsp; University of Maryland, Baltimore County
 
 Minor in Statistics
 
