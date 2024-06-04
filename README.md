@@ -91,11 +91,9 @@ This sample code **extracts and enables us to use the IFPA player data** by usin
 
 To get a quick grasp of our data, we can look at the distributions and descriptive statistics for each variable we extracted.
 
-[Histogram 1] [Descriptive Statistics 1]
-[Histogram 2] [Descriptive Statistics 2]
-[Histogram 3] [Descriptive Statistics 3]
-[Histogram 4] [Descriptive Statistics 4]
-...
+<img src="/assets/distributions.PNG">
+
+<img src="/assets/descriptive.PNG">
 
 ### The Model
 
