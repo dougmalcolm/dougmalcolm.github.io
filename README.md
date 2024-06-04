@@ -6,7 +6,7 @@
 
 B.S., Mathematics &emsp; | &emsp; University of Maryland, Baltimore County (*May, 2024*)
 
-&emsp; minor in Statistics
+Minor in Statistics
 
 # Projects
 
