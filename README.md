@@ -14,6 +14,8 @@ B.S., Mathematics &nbsp; | &nbsp; The University of Maryland, Baltimore County (
 
 SQL, Excel, PowerBI, Tableu, Python(Pandas, NumPy, Sklearn)
 
+![Alt text](/assets/profile.jpg?raw=true "Title")
+
 ---
 
 # Projects
