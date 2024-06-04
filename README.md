@@ -54,7 +54,7 @@ Here is an example player profile:
 
 The data to extract...
 
-[table of data label bolded, followed by description of data points], include age started in here
+<img src="/assets/data.png">
 
 #### Python Web Scraper
 
