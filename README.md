@@ -54,10 +54,15 @@ Here is an example player profile:
 
 For each tournament player in the IFPA, the following data is collected...
 
-**Data to Collect | Description**
+Data to Collect | Description
 --- | ---
-Still | `renders`
-1 | 2
+Name | Player Name
+Age | Player Age
+Age Started | Age at time of first tournament; found by (Age - Years Active)
+Years Active | Number of years playing in tournaments					
+Total Events | Total number of tournaments					
+Rating | Measure of pinball skill; Glicko Rating System					
+Ranking | Measure of pinball skill and dedication; Compares best 15 tournament results
 
 #### Python Web Scraper
 
