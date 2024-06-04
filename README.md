@@ -1,7 +1,7 @@
 # Data Analyst Profile
 
 Douglas Malcolm
- 
+
 Email: dougmalcolm87@gmail.com
 
 LinkedIn: ()
@@ -95,7 +95,7 @@ Note only profiles with a valid Age are used for the analysis.
 
 <img src="/assets/distributions.PNG">
 
-| - | Count | Mean | Median | Std. Deviation | Minimum | Maximum |
+| Variable | Count | Mean | Median | Std. Deviation | Minimum | Maximum |
 | --- | --- | --- | --- | --- | --- | --- |
 Age | 10508 | 42.1 | 43 | 12.1 | 4 | 85 |
 Years Active | 10508 | 4.3 | 3 | 4.5 | 0 | 42
@@ -112,7 +112,7 @@ Takeaways:
 
 ### The Model
 
-Now let's build a model to determine which factors lead to pinball greatness, and to what degree. Here I will be using **Rating** as the outcome of interest that measures greatness. When pinball players perform poorly in tournaments relative to others their rating goes down, and when they perform well their rating goes up. Because of this, **rating maps on to skill level** very nicely, assuming a player has played in enough tournaments. 
+Now let's build a model to determine which factors lead to pinball greatness, and to what degree. 
 
 #### Building the Model
 
@@ -136,13 +136,9 @@ Model1.fit(X_train, y_train)
 
 #### Results
 
-After transforming data to ensure normality, removing insignificant explanatory variables, and checking for low multicollinearity through VIF scores, we arrive at the final model.
+After ensuring independent residuals that are normal and homoscedastic about 0, removing insignificant explanatory variables, and checking for low multicollinearity through VIF scores, we arrive at the final model.
 
-[table of                 coef    std err          t      P>|t|      [0.025      0.975]
-const              1410.0744     66.100     21.332      **0.000**    1279.514    1540.635
-**Age Started**          -6.9315      1.392     -4.981      **0.000**      -9.680      -4.183
-**Cbrt Total Events**    54.4912      7.513      7.253      **0.000**      39.652      69.331
-]
+<img src="/assets/regression.PNG">
 
 **Age Started** and **Total Events** are the only explanatory variables that have a statistically significant effect on rating.
 
