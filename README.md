@@ -22,7 +22,7 @@ SQL, Excel, PowerBI, Tableu, Python(Pandas, NumPy, Sklearn)
 
 ## Overview
 
-_Skills Used: **Python, Excel, PowerBI**_
+_Tools Used: **Python, Excel, PowerBI**_
 
 What makes a pinball player *great*? 
 
