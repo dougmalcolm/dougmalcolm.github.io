@@ -4,9 +4,7 @@
 
 ## Education
 
-B.S., Mathematics &emsp; | &emsp; University of Maryland, Baltimore County (*May, 2024*)
-
-Minor in Statistics
+B.S., Mathematics &ensp; | &ensp; University of Maryland, Baltimore County (*May, 2024*)
 
 # Projects
 
