@@ -68,8 +68,6 @@ Both Rating and Ranking are measures of pinball skill. Rating will increase from
 
 #### Python Web Scraper
 
-How do we collect the data?
-
 ```Python
 from bs4 import BeautifulSoup
 import requests
