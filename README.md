@@ -140,7 +140,9 @@ After ensuring independent residuals that are normal and homoscedastic about 0, 
 
 <img src="/assets/regression.PNG">
 
-**Age Started**, **Total Events**, and **Years Active** are the only explanatory variables that have a statistically significant effect on rating.
+**Age Started**, **Years Active**, and **Total Events** are the only explanatory variables that have a statistically significant effect on rating.
+
+We can also look directly at how each of these variables are correlated with rating:
 
 <img src="/assets/events.PNG">
 
