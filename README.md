@@ -91,6 +91,8 @@ This sample code **extracts and enables us to use the IFPA player data** by usin
 
 To get a quick grasp of our data, we can look at the distributions and descriptive statistics for each variable we extracted.
 
+Note only profiles with a valid Age are used for the analysis.
+
 <img src="/assets/distributions.PNG">
 
 | - | Count | Mean | Median | Std. Deviation | Minimum | Maximum |
