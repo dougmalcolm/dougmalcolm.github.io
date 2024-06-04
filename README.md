@@ -93,15 +93,12 @@ To get a quick grasp of our data, we can look at the distributions and descripti
 
 <img src="/assets/distributions.PNG">
 
-| Count | Mean | Median | Std. Deviation | Minimum | Maximum
---- | --- | --- | --- | --- | --- |
-Name | Player Name
-Age | Player Age
-Age Started | Age at time of first tournament; found by (Age - Years Active)
-Years Active | Number of years playing in tournaments					
-Total Events | Total number of tournaments					
-Rating | Measure of pinball skill; Glicko Rating System					
-Ranking | Measure of pinball skill and dedication; Compares best 15 tournament results
+| - | Count | Mean | Median | Std. Deviation | Minimum | Maximum |
+| --- | --- | --- | --- | --- | --- | --- |
+Age | 7947 | 42.6 | 43 | 11.7 | 4 | 85 |
+Years Active | 7947 | 5.3 | 4 | 4.6 | 0 | 42
+Total Events | 7947 | 89.4 | 54 | 97.3 | 10 | 1026
+Rating | 7947 | 1307.1 | 1301 | 187.3 | 656 | 2149
 
 ### The Model
 
