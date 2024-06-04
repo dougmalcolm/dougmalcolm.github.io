@@ -1,14 +1,18 @@
-# Data Analyst
+# Data Analyst Profile
 
-## Technical Skills
+Douglas Malcolm
+Email: dougmalcolm87@gmail.com
+LinkedIn: ()
 
-SQL, Excel, PowerBI, Tableu, Python(Pandas, NumPy, Sklearn)
-
-## Education
+### Education
 
 B.S., Mathematics &nbsp; | &nbsp; The University of Maryland, Baltimore County (*May, 2024*)
 
-***
+### Technical Skills
+
+SQL, Excel, PowerBI, Tableu, Python(Pandas, NumPy, Sklearn)
+
+---
 
 # Projects
 
