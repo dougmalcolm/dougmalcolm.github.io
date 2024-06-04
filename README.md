@@ -1,6 +1,8 @@
 # Data Analyst
 
-#### Technical Skills: SQL, Excel, PowerBI, Tableu, Python(Pandas, NumPy, Sklearn)
+## Technical Skills
+
+SQL, Excel, PowerBI, Tableu, Python(Pandas, NumPy, Sklearn)
 
 ## Education
 
