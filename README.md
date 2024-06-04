@@ -10,7 +10,7 @@ B.S., Mathematics &ensp; &ensp; &ensp; The University of Maryland, Baltimore Cou
 
 ## Decoding Pinball Wizardry: A Data-Driven Analysis
 
-Skills Used in This Project: **Python, Excel, PowerBI**
+Skills Utilized: **Python, Excel, PowerBI**
 
 ## Overview
 What makes a pinball player *great*? 
