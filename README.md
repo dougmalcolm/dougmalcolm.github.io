@@ -5,7 +5,7 @@ Douglas Malcolm
 Email: dougmalcolm87@gmail.com
 
 LinkedIn: ()
-
+ 
 ### Education
 
 B.S., Mathematics &nbsp; | &nbsp; The University of Maryland, Baltimore County (*May, 2024*)
