@@ -1,6 +1,6 @@
-# Aspiring Data Analyst
+# Data Analyst
 
-### Technical Skills: SQL, Excel, PowerBI, Tableu, SAS, Python(Pandas, NumPy, Sklearn)
+#### Technical Skills: SQL, Excel, PowerBI, Tableu, SAS, Python(Pandas, NumPy, Sklearn)
 
 ## Education
 
