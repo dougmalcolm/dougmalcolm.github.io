@@ -68,6 +68,8 @@ Both Rating and Ranking are measures of pinball skill. Rating will increase from
 
 #### Python Web Scraper
 
+How do we collect the data?
+
 ```Python
 from bs4 import BeautifulSoup
 import requests
@@ -85,7 +87,7 @@ with open('Local File Path', 'a') as f:
     f.write(total_events + "\n")
 ```
 
-This code **extracts and enables us to use the IFPA player data** by using BeatifulSoup, Requests, and lxml libraries to access and parse the website's html. After finding the data we want in the html, we record the data into a cvs file for ease of use. Looping this gave **111888** rows of data, a set of data for each competitive pinball player.
+This sample code **extracts and enables us to use the IFPA player data** by using BeatifulSoup, Requests, and lxml libraries to access and parse the website's html. After finding the data we want in the html, we record the data into a cvs file for ease of use. Looping this gave **111,888** rows of data, specifically collecting name, age, years active, total events, rating, and ranking for each competitive pinball player.
 
 #### Exploring the Data
 
