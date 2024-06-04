@@ -116,7 +116,7 @@ Now let's build a model to determine which factors lead to pinball greatness, an
 
 #### Building the Model
 
-So, which factors have a statistically significant effect on rating?
+So, which factors have a statistically significant effect on rating? We will filter for only players with 10 or more total tournaments to ensure a large enough sample size for rating to be more accurate.
 
 Let's use the machine learning sklearn library to build the model:
 
@@ -140,10 +140,13 @@ After ensuring independent residuals that are normal and homoscedastic about 0, 
 
 <img src="/assets/regression.PNG">
 
-**Age Started** and **Total Events** are the only explanatory variables that have a statistically significant effect on rating.
+**Age Started**, **Total Events**, and **Years Active** are the only explanatory variables that have a statistically significant effect on rating.
 
-[insert scatter plot of Age Started v Rating]
-[insert scatter plot of cbrt(Total Events) v Rating]
+<img src="/assets/events.PNG">
+
+<img src="/assets/years.PNG">
+
+<img src="/assets/started.PNG">
 
 #### Calculator
 
