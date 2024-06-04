@@ -95,10 +95,10 @@ To get a quick grasp of our data, we can look at the distributions and descripti
 
 | - | Count | Mean | Median | Std. Deviation | Minimum | Maximum |
 | --- | --- | --- | --- | --- | --- | --- |
-Age | 7947 | 42.6 | 43 | 11.7 | 4 | 85 |
-Years Active | 7947 | 5.3 | 4 | 4.6 | 0 | 42
-Total Events | 7947 | 89.4 | 54 | 97.3 | 10 | 1026
-Rating | 7947 | 1307.1 | 1301 | 187.3 | 656 | 2149
+Age | 10508 | 42.1 | 43 | 12.1 | 4 | 85 |
+Years Active | 10508 | 4.3 | 3 | 4.5 | 0 | 42
+Total Events | 10508 | 68.8 | 33 | 92.1 | 1 | 1026
+Rating | 10508 | 1255.5 | 1251 | 204.2 | 565 | 2149
 
 ### The Model
 
