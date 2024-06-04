@@ -52,7 +52,7 @@ Here is an example player profile:
 
 <img src="/assets/sample_profile.png">
 
-The data to extract...
+For each tournament player in the IFPA, the following data is collected...
 
 <img src="/assets/data.PNG">
 
