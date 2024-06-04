@@ -50,11 +50,11 @@ The International Flipper Pinball Association [(IFPA)](https://www.ifpapinball.c
 
 Here is an example player profile:
 
-<img src="/assets/sample_profile.PNG">
+<img src="/assets/sample_profile.png">
 
 The data to extract...
 
-<img src="/assets/data.png">
+<img src="/assets/data.PNG">
 
 #### Python Web Scraper
 
