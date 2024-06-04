@@ -20,9 +20,9 @@ SQL, Excel, PowerBI, Tableu, Python(Pandas, NumPy, Sklearn)
 
 ## Decoding Pinball Wizardry: A Data-Driven Analysis
 
-<img align="right" src="/assets/pinball_wizardry_2.jpg" width="250" height="333">
-
 ### Overview
+
+<img align="right" src="/assets/pinball_wizardry_2.jpg" width="250" height="333">
 
 _Tools Used: **Python, Excel, PowerBI**_
 
