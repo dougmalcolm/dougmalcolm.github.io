@@ -20,9 +20,10 @@ SQL, Excel, PowerBI, Tableu, Python(Pandas, NumPy, Sklearn)
 
 ## Decoding Pinball Wizardry: A Data-Driven Analysis
 
-Skills Used: **Python, Excel, PowerBI**
-
 ## Overview
+
+_Skills Used: **Python, Excel, PowerBI**_
+
 What makes a pinball player *great*? 
 
 This analysis looks to answer that quesion by uncovering patterns in pinball tournament player data.
