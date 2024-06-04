@@ -107,7 +107,7 @@ Takeaways:
 - The average pinball tournament player is **43** years old
 - The average pinball tournament player has played for **3** years
 - The average pinball tournament player has played in **33** tournaments
-- 95% of pinball players have ratings between **847 and 1704**, with an average of **1256** representing 'average skill level'.
+- 95% of pinball players have ratings between 847 and 1704, with an average of **1256** representing 'average skill level'.
 
 
 ### The Model
