@@ -50,7 +50,7 @@ The International Flipper Pinball Association [(IFPA)](https://www.ifpapinball.c
 
 Here is an example player profile:
 
-<img src="/assets/sample_profile.png">
+<img src="/assets/sample_profile.PNG">
 
 The data to extract...
 
