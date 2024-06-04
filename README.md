@@ -102,6 +102,14 @@ Years Active | 10508 | 4.3 | 3 | 4.5 | 0 | 42
 Total Events | 10508 | 68.8 | 33 | 92.1 | 1 | 1026
 Rating | 10508 | 1255.5 | 1251 | 204.2 | 565 | 2149
 
+Takeaways:
+
+- The average pinball tournament player is **43** years old
+- The average pinball tournament player has played for **3** years
+- The average pinball tournament player has played in **33** tournaments
+- 95% of pinball players have ratings between **847 and 1704**, with an average of **1256** representing 'average skill level'.
+
+
 ### The Model
 
 Now let's build a model to determine which factors lead to pinball greatness, and to what degree. Here I will be using **Rating** as the outcome of interest that measures greatness. When pinball players perform poorly in tournaments relative to others their rating goes down, and when they perform well their rating goes up. Because of this, **rating maps on to skill level** very nicely, assuming a player has played in enough tournaments. 
