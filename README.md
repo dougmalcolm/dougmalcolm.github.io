@@ -22,7 +22,7 @@ SQL, Excel, PowerBI, Tableu, Python(Pandas, NumPy, Sklearn)
 
 ### Overview
 
-<img align="left" src="/assets/pinball_wizardry_2.jpg" width="300" height="390">
+<img align="right" src="/assets/pinball_wizardry_2.jpg" width="300" height="390">
 
 _Tools Used: **Python, Excel, PowerBI**_
 
