@@ -11,7 +11,8 @@ B.S., Mathematics &ensp; &ensp; &ensp; The University of Maryland, Baltimore Cou
 ## Decoding Pinball Wizardry: A Data-Driven Analysis
 
 ## Overview
-What makes a pinball player great? 
+What makes a pinball player *great*? 
+
 This analysis looks to answer that quesion by uncovering patterns in pinball tournament player data.
 
 In this project I... 
