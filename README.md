@@ -4,7 +4,7 @@
 
 ## Education
 
-B.S., Mathematics &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; The University of Maryland, Baltimore County (*May, 2024*)
+B.S., Mathematics &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; The University of Maryland, Baltimore County (*May, 2024*)
 
 # Projects
 
