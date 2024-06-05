@@ -106,7 +106,7 @@ Ranking | 49,112 | 23879 | 23325 | 14326 | 1 | 51013
 
 Takeaways:
 
-- Only **95.36%** of all players have only played in 1 tournament
+- A whopping **95.36%** of all IFPA players have only played in 1 tournament
 - The average pinball tournament player is **42.1** years old, has played for **1.3** years in **12.5** tournaments
 - 95% of pinball players with 5+ total events have ratings between 790 and 1558, with an average of **1174** representing 'average skill level'
 
