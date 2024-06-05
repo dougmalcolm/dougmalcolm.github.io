@@ -1,4 +1,5 @@
 title: Douglas Malcolm
 logo: /assets/profile.jpg
 description: Aspiring Data Analyst
+markdown: kramdown
 theme: jekyll-theme-minimal
