@@ -95,7 +95,7 @@ Note only profiles with a valid Age are used for the analysis.
 
 <img src="/assets/distributions.PNG">
 
-| Variable | Count | Mean | Median | Std. Deviation | Minimum | Maximum |
+| Variable | Sample Size (n) | Mean | Median | Std. Deviation | Minimum | Maximum |
 | --- | --- | --- | --- | --- | --- | --- |
 Age | 10,506 | 42.1 | 43 | 11.9 | 6 | 85 |
 Age Started | 10,510 | 37.9 | 38 | 11.6 | 5 | 83 |
