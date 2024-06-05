@@ -97,11 +97,12 @@ Note only profiles with a valid Age are used for the analysis.
 
 | Variable | Count | Mean | Median | Std. Deviation | Minimum | Maximum |
 | --- | --- | --- | --- | --- | --- | --- |
-Age | 10506 | 42.1 | 43 | 11.9 | 6 | 85 |
-Age Started | 10510 | 37.9 | 38 | 11.6 | 5 | 83 |
-Years Active | 116468 | 1.3 | 0 | 2.8 | 0 | 42
-Total Events | 116308 | 12.5 | 2 | 39.6 | 1 | 1113
-Rating | 116314 | 1047.3 | 1032.7 | 187.2 | 436.9 | 2149.3
+Age | 10,506 | 42.1 | 43 | 11.9 | 6 | 85 |
+Age Started | 10,510 | 37.9 | 38 | 11.6 | 5 | 83 |
+Years Active | 116,468 | 1.3 | 0 | 2.8 | 0 | 42
+Total Events | 116,308 | 12.5 | 2 | 39.6 | 1 | 1113
+Rating | 116,314 | 1047 | 10323 | 187 | 437 | 2149
+Ranking | 49,112 | 23879 | 23325 | 14326 | 1 | 51013
 
 Takeaways:
 
