@@ -91,25 +91,25 @@ This sample code **extracts and enables us to use the IFPA player data** by usin
 
 To get a quick grasp of our data, we can look at the distributions and descriptive statistics for each variable we extracted.
 
-Note only profiles with a valid Age are used for the analysis.
+Rating is not very accurate with only a couple of tournament performance data points. So when looking at rating analysis going forward, we will filter for only those with 5+ Total Events played. This will consequently capture more serious players and bump up the average rating from 1047 to 1174.
 
 <img src="/assets/distributions.PNG">
 
-| Variable | Sample Size (n) | Mean | Median | Std. Deviation | Minimum | Maximum |
+| Variable | Sample Size | Mean | Median | Std. Deviation | Minimum | Maximum |
 | --- | --- | --- | --- | --- | --- | --- |
 Age | 10,506 | 42.1 | 43 | 11.9 | 6 | 85 |
 Age Started | 10,510 | 37.9 | 38 | 11.6 | 5 | 83 |
 Years Active | 116,468 | 1.3 | 0 | 2.8 | 0 | 42
 Total Events | 116,308 | 12.5 | 2 | 39.6 | 1 | 1113
-Rating | 116,314 | 1047 | 10323 | 187 | 437 | 2149
+Rating | 32,538 | 1174 | 1162 | 192 | 437 | 2149
 Ranking | 49,112 | 23879 | 23325 | 14326 | 1 | 51013
 
 Takeaways:
 
-- The average pinball tournament player is **43** years old
-- The average pinball tournament player has played for **3** years
-- The average pinball tournament player has played in **33** tournaments
-- 95% of pinball players have ratings between 847 and 1704, with an average of **1256** representing 'average skill level'.
+- The average pinball tournament player is **42.1** years old
+- The average pinball tournament player has played for **1.3** years
+- The average pinball tournament player has played in **12.5** tournaments
+- 95% of pinball players with 5+ total events have ratings between 790 and 1558, with an average of **1174** representing 'average skill level'.
 
 
 ### The Model
