@@ -140,7 +140,7 @@ Model1.fit(X_train, y_train)
 
 After ensuring independent residuals that are normal and homoscedastic about 0, removing insignificant explanatory variables, and checking for low multicollinearity through VIF scores, we arrive at the final model.
 
-<img src="/assets/distributions.PNG">
+<img src="/assets/regression.PNG">
 
 **Age Started**, **Years Active**, and **Total Events** are the only explanatory variables that have a statistically significant effect on rating.
 
