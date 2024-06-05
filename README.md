@@ -93,7 +93,7 @@ To get a quick grasp of our data, we can look at the distributions and descripti
 
 Rating is not very accurate with only a couple of tournament performance data points. So when looking at rating analysis going forward, we will filter for only those with 5+ Total Events played. This will consequently capture more serious players and bump up the average rating from 1047 to 1174.
 
-<img src="/assets/distributions.PNG">
+<img src="/assets/distributions_new.PNG">
 
 | Variable | Sample Size | Mean | Median | Std. Deviation | Minimum | Maximum |
 | --- | --- | --- | --- | --- | --- | --- |
