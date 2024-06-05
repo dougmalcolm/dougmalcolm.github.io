@@ -41,12 +41,9 @@ In this project I...
 
 Pinball is a mix of skill and luck. Being able to accurately hit the shots you want, regain ball control after wild trajectories, and nudging the machine to affect the ball path are a couple examples of skills that can extend an otherwise short game. At the same time though, one player may immediately drain after missing a shot whereas another player may miss ten shots before the game decides their ball is done. Playing sufficiently many games is where the skill differences shine through though - the bad and good luck balances out and the better player tends to come out on top. This is why players like Jason Zahler and Escher Lefkoff are able to consistently get 1st place at huge 100+ player tournaments; There are enough tournament rounds for their superior pinball skills to shine through the luck. 
 
-If you are curious about how to play pinball skillfully and what that actually looks like, this [youtube playlist from Abe Flips](https://www.youtube.com/watch?v=ch7H19SHkXE&list=PL31W94V2HVSW7ksDyZ_183rUBxiSQon75){:target="_blank" rel="noopener"} is by far the best resource for learning. 
+If you are curious about how to play pinball skillfully and what that actually looks like, [this youtube playlist from Abe Flips](https://www.youtube.com/watch?v=ch7H19SHkXE&list=PL31W94V2HVSW7ksDyZ_183rUBxiSQon75) is by far the best resource for learning. 
 
-- Pinball is booming - link todayshow clip and stats
-- I have played pinball competitively for 8 years, I love the game, etc
-pic of me playing pinball
-- Are there any patterns among players who become great?
+Personally, I have been playing in tournaments for 7 years now, and I absoultely love both pinball and thrill of competition. So naturally I was curious... what makes a pinball player great? 
 
 ### The Data
 The International Flipper Pinball Association [(IFPA)](https://www.ifpapinball.com/) is *the* organization that oversees and tracks competitive pinball. It has a webpage for each of its players showing information like name, age, years active, tournament finishes, and rating. Since the IFPA lacks a robust API, I decided to develop my own web scraper in Python to extract all of the relevant player data.
