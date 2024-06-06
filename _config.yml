@@ -1,5 +1,5 @@
 title: Douglas Malcolm
-logo: /assets/profile_new.jpg
+logo: <img src="/assets/profile_new.jpg" width="200" height="200">
 description: Aspiring Data Analyst
 theme: jekyll-theme-minimal
 future: true
