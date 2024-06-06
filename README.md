@@ -43,7 +43,7 @@ Pinball is a mix of skill and luck. Being able to accurately hit the shots you w
 
 If you are curious about how to play pinball skillfully and what that actually looks like, [this youtube playlist from Abe Flips](https://www.youtube.com/watch?v=ch7H19SHkXE&list=PL31W94V2HVSW7ksDyZ_183rUBxiSQon75) is by far the best resource for learning. 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ch7H19SHkXE&list=PL31W94V2HVSW7ksDyZ_183rUBxiSQon75" target="_blank"> <img src="/assets/vid_pic.PNG" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ch7H19SHkXE&list=PL31W94V2HVSW7ksDyZ_183rUBxiSQon75" target="_blank"> <img src="/assets/vid_pic.PNG" width="355" height="200" border="10" /></a>
 
 Personally, I have been playing in tournaments for 7 years now, and I absoultely love both pinball and thrill of competition. So naturally I was curious... what makes a pinball player great? 
 
