@@ -140,12 +140,13 @@ After ensuring independent residuals that are normal and homoscedastic about 0, 
 
 <img src="/assets/regression.PNG">
 
-Age Started, Years Active, and Total Events are the only explanatory variables that have a statistically significant effect on rating.
+---
 
-FINAL MODEL:
+Model:
 
 **Rating = 1250 + 2.003(Years Active) + 0.953(Total Events) - 1.025(Age Started)**
 
+---
 
 We can also look directly at how each of these variables are correlated with rating:
 
