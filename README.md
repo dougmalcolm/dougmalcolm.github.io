@@ -8,7 +8,7 @@ LinkedIn:
 
 ### Education
 
-B.S., Mathematics &nbsp; | &nbsp; The University of Maryland, Baltimore County (*May, 2024*)
+B.S., Mathematics &nbsp; | &nbsp; The University of Maryland, Baltimore County (2024)
 
 ### Technical Skills
 
