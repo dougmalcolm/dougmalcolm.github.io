@@ -1,7 +1,10 @@
-title: Douglas Malcolm
+title: Data Analysis Portfolio
+first_name: Douglas
+middle_name: M
+last_name: Malcolm
+#email: dougmalcolm87@gmail.com
+#linkedin-username: testing
 logo: /assets/final_profile.png
 description: Aspiring Data Analyst
 theme: jekyll-theme-minimal
-#email: dougmalcolm87@gmail.com
-#linkedin-username: testing
 future: true
