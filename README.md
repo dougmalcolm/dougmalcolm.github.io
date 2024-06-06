@@ -152,11 +152,11 @@ Final Model:
 
 We can also look directly at how each of these variables are correlated with rating:
 
-<img src="/assets/events.PNG">
+<img src="/assets/total_events.PNG">
 
-<img src="/assets/years.PNG">
+<img src="/assets/years_active.PNG">
 
-<img src="/assets/started.PNG">
+<img src="/assets/age_started.PNG">
 
 ### Conclusion
 
