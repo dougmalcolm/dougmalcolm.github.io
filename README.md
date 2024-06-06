@@ -1,7 +1,11 @@
 # Data Analyst Profile
 
-[Personal Website](https://dougmalcolm.github.io/) &nbsp; &nbsp; Email: dougmalcolm87@gmail.com &nbsp; &nbsp; LinkedIn: ()
- 
+Email: dougmalcolm87@gmail.com
+
+LinkedIn: 
+
+You can see this profile my projects displayed cleaner on my [personal website](https://dougmalcolm.github.io/)
+
 ### Education
 
 B.S., Mathematics &nbsp; | &nbsp; The University of Maryland, Baltimore County (*May, 2024*)
