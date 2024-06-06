@@ -153,9 +153,7 @@ We can also look directly at how each of these variables are correlated with rat
 
 #### Calculator
 
-In order to easily predict the rating of any pinball player, I have provided a calculator:
 
-[custom calculator]
 
 ### Discussion
 
