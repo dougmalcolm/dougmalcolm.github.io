@@ -2,9 +2,9 @@
 
 You can see this profile my projects displayed cleaner on my [personal website](https://dougmalcolm.github.io/)
 
-*Email:* dougmalcolm87@gmail.com
+Email: dougmalcolm87@gmail.com
 
-*LinkedIn:*
+LinkedIn:
 
 ### Education
 
