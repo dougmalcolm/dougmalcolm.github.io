@@ -16,7 +16,7 @@ SQL, Excel, PowerBI, Tableu, Python(Pandas, NumPy, Sklearn)
 
 ---
 
-# Projects
+# Project 1
 
 ## Decoding Pinball Wizardry: A Data-Driven Analysis
 
