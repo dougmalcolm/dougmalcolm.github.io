@@ -1,6 +1,6 @@
 # Data Analyst Profile
 
-[Personal Website](dougmalcolm.github.io) &nbsp; | &nbsp; Email: dougmalcolm87@gmail.com &nbsp; | &nbsp; LinkedIn: ()
+[Personal Website](https://dougmalcolm.github.io/) &nbsp; &nbsp; Email: dougmalcolm87@gmail.com &nbsp; &nbsp; LinkedIn: ()
  
 ### Education
 
