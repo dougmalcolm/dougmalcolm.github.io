@@ -91,8 +91,6 @@ This sample code **extracts and enables us to use the IFPA player data** by usin
 
 To get a quick grasp of our data, we can look at the distributions and descriptive statistics for each variable we extracted.
 
-Rating is not very accurate with only a couple of tournament performance data points. So when looking at rating analysis going forward, we will filter for only those with 5+ Total Events played. This will consequently capture more serious players and bump up the average rating from 1047 to 1174.
-
 <img src="/assets/distributions.PNG">
 
 | Variable | Sample Size | Mean | Median | Std. Deviation | Minimum | Maximum |
@@ -110,14 +108,15 @@ Takeaways:
 - The average pinball tournament player is **42.1** years old, and has played for **1.3** years in **12.5** tournaments.
 - 95% of pinball players with 5+ total events have ratings between 790 and 1558, with an average of **1174** representing 'average skill level'.
 
-
 ### The Model
 
 Now let's build a model to determine which factors lead to pinball greatness, and to what degree. 
 
 #### Building the Model
 
-So, which factors have a statistically significant effect on rating? We will filter for only players with 10 or more total tournaments to ensure a large enough sample size for rating to be more accurate.
+So, which factors have a statistically significant effect on rating? 
+
+Rating is not very accurate with only a couple of tournament performance data points. So when looking at rating analysis going forward, we will filter for only those players with 5+ Total Events played. This should give us a large enough sample size of tournament performances to capture an decently accurate rating for each player.
 
 Let's use the machine learning sklearn library to build the model:
 
