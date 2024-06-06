@@ -150,7 +150,7 @@ Final Model:
 
 ---
 
-We can also look directly at how each of these variables are correlated with rating:
+We can also look directly at how each of these three variables are correlated with rating:
 
 <img src="/assets/total_events.PNG">
 
