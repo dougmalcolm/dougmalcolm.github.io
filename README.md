@@ -156,26 +156,12 @@ We can also look directly at how each of these variables are correlated with rat
 
 <img src="/assets/started.PNG">
 
-#### Calculator
+### Conclusion
 
+Firstly, it is important to acknowledge that filtering for only players with an Age and 5+ Total Events reduced the sample size dramatically. While a smaller n value doesn't invalidate the results, it certainly doesn't help the final model. 
 
+The final model lacks predictive value. With an R^2 value of 0.276 and such small effects from each explanatory varible, there is simply too much unexplained variance in our model. Age Started, Total Events, and Years Active do affect rating to a statistically significant, not-by-chance degree. The effects are just simply so small it would be silly to try to accurately predict rating from these three metrics alone.
 
-### Discussion
+**While Age Started, Total Events, and Years Active have an undeniable correlation with skill level, they don't come close to capturing the full picture of what makes a great pinball player.** I suspect what truley leads to pinball greatness is not so easily quantifiable. 
 
-Practically, it makes sense that the age you start playing at and the number of tournaments you play in are big factors contributing to pinball skill. However, this is not the full picture.
-
-#### Limitations
-
-Many players choose not to enter their age when making their IFPA profile. Additionally, many players have only played in one or two tournaments [**can get exact % of this from pandas**]. This means that the model only trained on **X players, or X%** of the total number of **N players**. That large chunk of bad data hurt to discard, as the model only improves with more data.
-
-Furthermore, it's imperative to highlight that starting one's journey in pinball later in life and participating in a modest number of tournaments does not prohibit one from acheiving greatness in pinball. Look at [player name], who started at the age of [x], has only played in [y] tournaments, and yet has the [zth] best rating in the world!
-
-Realistically, there are many other qualitative factors that have an enormous impact on one's pinball skill such as; love of the game, openness to failing and learning, degree of access to pinball machines, etc. Although starting young and playing alot have a real impact, there is no doubt that anyone who falls in love with pinball can improve and become great. Where there's a will, there's a path.
-
-
-
-
-
-
-
-
+So I want to hear from you. What do you think makes a great pinball player? If you have experience playing pinball, please fill out this (Google Forms survey)[https://forms.gle/APDzK8DGoZY6wsNf9] and share your opinion. With enough responses I may be able to perform a qualitative analysis.  
