@@ -142,7 +142,7 @@ After ensuring independent residuals that are normal and homoscedastic about 0, 
 
 ---
 
-Model:
+Final Model:
 
 **Rating = 1250 + 2.003(Years Active) + 0.953(Total Events) - 1.025(Age Started)**
 
@@ -162,6 +162,6 @@ Firstly, it is important to acknowledge that filtering for only players with an 
 
 The final model lacks predictive value. With an R^2 value of 0.276 and such small effects from each explanatory varible, there is simply too much unexplained variance in our model. Age Started, Total Events, and Years Active do affect rating to a statistically significant, not-by-chance degree. The effects are just simply so small it would be silly to try to accurately predict rating from these three metrics alone.
 
-**While Age Started, Total Events, and Years Active have an undeniable correlation with skill level, they don't come close to capturing the full picture of what makes a great pinball player.** I suspect what truley leads to pinball greatness is not so easily quantifiable. 
+**While Age Started, Total Events, and Years Active have an undeniable correlation with skill level, they don't come close to capturing the full picture of what makes a great pinball player.** 
 
-So I want to hear from you. What do you think makes a great pinball player? If you have experience playing pinball, please fill out this (Google Forms survey)[https://forms.gle/APDzK8DGoZY6wsNf9] and share your opinion. With enough responses I may be able to perform a qualitative analysis.  
+I suspect what truley leads to pinball greatness is not so easily quantifiable. So I want to hear from you; What do you think makes a great pinball player? If you have experience playing pinball, please fill out this [Google Forms survey](https://forms.gle/APDzK8DGoZY6wsNf9) and share your opinion. With enough responses I may be able to perform a qualitative analysis.  
