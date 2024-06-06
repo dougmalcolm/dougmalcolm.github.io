@@ -1,10 +1,6 @@
 # Data Analyst Profile
 
-Douglas Malcolm
- 
-Email: dougmalcolm87@gmail.com
-
-LinkedIn: ()
+[Personal Website](dougmalcolm.github.io) &nbsp; | &nbsp; Email: dougmalcolm87@gmail.com &nbsp; | &nbsp; LinkedIn: ()
  
 ### Education
 
