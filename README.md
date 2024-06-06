@@ -1,4 +1,4 @@
-# Profile
+# Data Analyst Profile
 
 You can see this profile and my projects displayed cleaner on my [personal Github Pages website](https://dougmalcolm.github.io/)
 
