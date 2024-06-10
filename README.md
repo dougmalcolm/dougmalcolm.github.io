@@ -30,7 +30,7 @@ _Tools Used: **Python, Excel, PowerBI, Regression Analysis**_
 
 What makes a pinball player *great*? 
 
-In this analysis, the objective is to uncover the key factors that drive the success of top pinball tournament players.
+This analysis aims to uncover the key factors that drive the success of top pinball tournament players.
 
 In this project I... 
 - Developed a **Python web scraper**, collecting 731,862 data from the IFPA pinball tournament player website
