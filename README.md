@@ -26,7 +26,7 @@ Bachelor of Science: Mathematics
 
 ### Overview
 
-_Tools Used: **Python, Excel, PowerBI**_
+_Tools Used: **Python, Excel, PowerBI, Regression Analysis**_
 
 What makes a pinball player *great*? 
 
