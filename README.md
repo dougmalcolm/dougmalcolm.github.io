@@ -10,7 +10,7 @@ University of Maryland, Baltimore County | *May 2024*
 
 Bachelor of Science: Mathematics
 
-### Technical Skills
+### Skills
 
 - SQL, Excel, PowerBI, Tableau, SAS
 - Python (Pandas, Numpy, Matplotlib, Scikit-Learn)
@@ -30,14 +30,15 @@ _Tools Used: **Python, Excel, PowerBI, Regression Analysis**_
 
 What makes a pinball player *great*? 
 
-This analysis looks to answer that quesion by uncovering patterns in pinball tournament player data.
+In this analysis, the objective is to uncover the key factors that drive the success of top pinball tournament players.
 
 In this project I... 
-- Developed a **Python web scraper** to extract and collect pinball tournament player data
-- Performed data cleaning and preprocessing using **pandas**
-- Built **data visualizations** to help make sense of the data
-- Employed **machine learning** sklearn library to construct linear regression models
-- Interpreted statistical test results to derive **meaningful conclusions**
+- Developed a **Python web scraper**, collecting 731,862 data from the IFPA pinball tournament player website
+- Performed **data cleaning and preprocessing** using Pandas to prepare the dataset for analysis
+- Created **data visualizations** and descriptive statistics in PowerBI and Excel to grasp data distributions
+- Applied **machine learning** techniques with scikit-learn to construct linear regression models
+- Analyzed regression results to **derive meaningful insights** about pinball tournament success factors 
+
 
 ### Background
 
