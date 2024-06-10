@@ -12,7 +12,9 @@ Bachelor of Science: Mathematics
 
 ### Technical Skills
 
-SQL, Excel, PowerBI, Tableu, Python(Pandas, NumPy, Sklearn)
+- SQL, Excel, PowerBI, Tableau, SAS
+- Python (Pandas, Numpy, Matplotlib, Scikit-Learn)
+- Statistical Testing (Multiple Regression Analysis, ANOVA, Hypothesis Testing, Chi-Square GoF)
 
 ---
 
