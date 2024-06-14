@@ -1,6 +1,6 @@
 # Data Analyst Profile
 
-Email: dougmalcolm87@gmail.com
+dougmalcolm87@gmail.com
 
 [LinkedIn](https://www.linkedin/in/douglas-malcolm)
 
