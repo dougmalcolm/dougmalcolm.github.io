@@ -2,7 +2,7 @@
 
 Email: dougmalcolm87@gmail.com
 
-[LinkedIn)(https://www.linkedin/in/douglas-malcolm)
+[LinkedIn](https://www.linkedin/in/douglas-malcolm)
 
 ### Education
 
